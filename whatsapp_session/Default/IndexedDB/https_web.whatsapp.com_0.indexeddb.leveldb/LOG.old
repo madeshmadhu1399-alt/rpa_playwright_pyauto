@@ -1,0 +1,26 @@
+2026/07/23-07:50:04.508 d0afd Reusing MANIFEST /Users/madesh/pyautogui/whatsapp_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/23-07:50:04.508 d0afd Recovering log #312
+2026/07/23-07:50:04.531 d0afd Reusing old log /Users/madesh/pyautogui/whatsapp_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000312.log 
+2026/07/23-07:50:08.846 d0afd Level-0 table #324: started
+2026/07/23-07:50:08.873 d0afd Level-0 table #324: 1083872 bytes OK
+2026/07/23-07:50:08.875 d0afd Delete type=0 #312
+2026/07/23-07:50:08.893 d0afc Compacting 1@1 + 8@2 files
+2026/07/23-07:50:08.931 d0afc Generated table #325@1: 61219 keys, 2242436 bytes
+2026/07/23-07:50:08.958 d0afc Generated table #326@1: 35440 keys, 2193470 bytes
+2026/07/23-07:50:08.968 d0afc Generated table #327@1: 1896 keys, 2149500 bytes
+2026/07/23-07:50:08.991 d0afc Generated table #328@1: 20303 keys, 2217705 bytes
+2026/07/23-07:50:09.007 d0afc Generated table #329@1: 9467 keys, 2165734 bytes
+2026/07/23-07:50:09.034 d0afc Generated table #330@1: 70531 keys, 2213752 bytes
+2026/07/23-07:50:09.065 d0afc Generated table #331@1: 92524 keys, 2243164 bytes
+2026/07/23-07:50:09.092 d0afc Generated table #332@1: 77537 keys, 2097004 bytes
+2026/07/23-07:50:09.092 d0afc Compacted 1@1 + 8@2 files => 17522765 bytes
+2026/07/23-07:50:09.093 d0afc compacted to: files[ 0 0 8 0 0 0 0 ]
+2026/07/23-07:50:09.093 d0afc Delete type=2 #314
+2026/07/23-07:50:09.093 d0afc Delete type=2 #315
+2026/07/23-07:50:09.094 d0afc Delete type=2 #317
+2026/07/23-07:50:09.094 d0afc Delete type=2 #316
+2026/07/23-07:50:09.094 d0afc Delete type=2 #321
+2026/07/23-07:50:09.094 d0afc Delete type=2 #320
+2026/07/23-07:50:09.094 d0afc Delete type=2 #324
+2026/07/23-07:50:09.094 d0afc Delete type=2 #318
+2026/07/23-07:50:09.094 d0afc Delete type=2 #319
